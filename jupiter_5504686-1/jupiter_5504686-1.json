@@ -1,0 +1,13 @@
+{
+    "networkId": "jupiter_5504686-1",
+    "triggers": [
+        {
+            "image": "/logos/jupiter1.png",
+            "text": "Jupiter Marketplace"
+        },
+        {
+            "image": "/logos/jupiter2.png",
+            "text": "Ape on NFTs on Jupiter NFT marketplace"
+        }
+    ]
+}
