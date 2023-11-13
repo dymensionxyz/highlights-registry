@@ -48,5 +48,5 @@ jobs:
               -H "Content-type: application/json" \
               -H "Authorization: Bearer $SAVE_NETWORK_API_KEY" \
               -d "$parsed_json" \
-              "https://savenetworkrequest-zbrmx4rjia-uc.a.run.app"
+              "https://savehighlightrequest-zbrmx4rjia-uc.a.run.app"
           done
