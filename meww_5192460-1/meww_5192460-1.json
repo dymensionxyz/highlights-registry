@@ -1,5 +1,6 @@
 {
     "networkId": "meww_5192460-1",
+    "active": true,
     "triggers": [
         {
             "image": "/logos/meww1.png",

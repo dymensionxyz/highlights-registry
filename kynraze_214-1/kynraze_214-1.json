@@ -1,5 +1,6 @@
 {
     "networkId": "kynraze_214-1",
+    "active": true,
     "triggers": [
         {
             "image": "/logos/kynraze1.png",

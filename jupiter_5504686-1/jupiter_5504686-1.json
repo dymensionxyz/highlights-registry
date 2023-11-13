@@ -1,5 +1,6 @@
 {
     "networkId": "jupiter_5504686-1",
+    "active": true,
     "triggers": [
         {
             "image": "/logos/jupiter1.png",
