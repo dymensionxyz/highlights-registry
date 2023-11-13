@@ -1,0 +1,13 @@
+{
+    "networkId": "mushi_4443145-1",
+    "triggers": [
+        {
+            "image": "/logos/mushi1.png",
+            "text": "Try your luck with Heads or Tails"
+        },
+        {
+            "image": "/logos/mushi2.png",
+            "text": "Enjoy Games on Mushi Center"
+        }
+    ]
+}
