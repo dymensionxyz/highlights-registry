@@ -1,0 +1,13 @@
+{
+    "networkId": "kynraze_214-1",
+    "triggers": [
+        {
+            "image": "kynraze1.png",
+            "text": "Mint your Cyber pixel NFT"
+        },
+        {
+            "image": "kynraze2.png",
+            "text": "Collect Pokemon Cards"
+        }
+    ]
+}
