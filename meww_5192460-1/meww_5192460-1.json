@@ -1,0 +1,13 @@
+{
+    "networkId": "meww_5192460-1",
+    "triggers": [
+        {
+            "image": "/logos/meww1.png",
+            "text": "Rock Paper Scissors"
+        },
+        {
+            "image": "/logos/meww2.png",
+            "text": "Rock Paper Scissors"
+        }
+    ]
+}
