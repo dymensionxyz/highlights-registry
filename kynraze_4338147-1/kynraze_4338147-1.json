@@ -1,0 +1,14 @@
+{
+    "networkId": "kynraze_4338147-1",
+    "active": true,
+    "triggers": [
+        {
+            "image": "/logos/kynraze1.png",
+            "text": "Explor Kynraze's bright NFT Market"
+        },
+        {
+            "image": "/logos/kynraze2.png",
+            "text": "Have a blast playing Kynraze Games"
+        }
+    ]
+}
