@@ -1,0 +1,11 @@
+{
+    "networkId": "gkrollapp_4731583-1",
+    "active": true,
+    "triggers": [
+        {
+            "image": "/logos/gkfso1.png",
+            "text": "Explore RollApp networks"
+        }
+
+    ]
+}

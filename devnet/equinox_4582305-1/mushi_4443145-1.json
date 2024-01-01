@@ -1,0 +1,11 @@
+{
+    "networkId": "equinox_4582305-1",
+    "active": true,
+    "triggers": [
+        {
+            "image": "/logos/equinox1.png",
+            "text": "Mint unique Pixelbeans art"
+        }
+
+    ]
+}
