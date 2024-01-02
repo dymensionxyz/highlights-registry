@@ -5,7 +5,10 @@
         {
             "image": "/logos/equinox1.png",
             "text": "Mint unique Pixelbeans art"
+        },
+	{
+            "image": "/logos/equinox2.png",
+            "text": ""
         }
-
     ]
 }
