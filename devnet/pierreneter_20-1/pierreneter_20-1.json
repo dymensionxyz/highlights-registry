@@ -1,0 +1,14 @@
+{
+  "networkId": "pierreneter_20-1",
+  "active": true,
+  "triggers": [
+    {
+      "image": "/logos/pierreneter1.png",
+      "text": "Let increase DymNEI"
+    },
+    {
+      "image": "/logos/pierreneter2.png",
+      "text": "Let increase DymNEI"
+    }
+  ]
+}
