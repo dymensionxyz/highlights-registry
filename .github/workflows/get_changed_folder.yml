@@ -52,6 +52,12 @@ jobs:
               "internal-devnet")
                 save_highlight_api="https://savehighlightrequest-lmw4daeqdq-uc.a.run.app"
                 ;;
+              "testnet")
+                save_highlight_api="https://savehighlightrequest-p7gld3dazq-uc.a.run.app"
+                ;;
+              "mainnet")
+                save_highlight_api="https://savehighlightrequest-xqbg2swtrq-uc.a.run.app"
+                ;;
               *)
             esac
           
