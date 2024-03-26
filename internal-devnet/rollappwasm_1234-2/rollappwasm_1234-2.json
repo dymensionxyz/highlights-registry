@@ -1,6 +1,6 @@
 {
-    "networkId": "rollappwasm_1234-2",
     "active": true,
+    "networkId": "rollappwasm_1234-2",
     "triggers": [
         {
             "image": "/logos/epicwarzone1.png",
