@@ -3,12 +3,12 @@
     "active": true,
     "triggers": [
         {
-            "image": "/logos/mushi1.jpg",
-            "text": "Hit or stand? play some blackjack?"
+            "image": "/logos/NIM_BANNER_1.png",
+            "text": "Explore NIM"
         },
         {
-            "image": "/logos/mushi2.jpg",
-            "text": "Enjoy Games on Mushi Center"
+            "image": "/logos/NIM_BANNER_2",
+            "text": "Discover AI, onchain, with its own chain"
         },
         {
             "image": "/logos/mushi3.jpg",
