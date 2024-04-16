@@ -1,6 +1,6 @@
 {
-    "active": true,
     "networkId": "nimtestnet_1122-1",
+        "active": true,
     "triggers": [
         {
             "image": "/logos/NIM_BANNER_2.png",
