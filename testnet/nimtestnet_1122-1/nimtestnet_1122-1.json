@@ -1,0 +1,14 @@
+{
+    "active": true,
+    "networkId": "nimtestnet_1122-1",
+    "triggers": [
+        {
+            "image": "/logos/NIM_BANNER_2.png",
+            "text": "AI Gaming Chain"
+        },
+        {
+            "image": "/logos/NIM_BANNER_2.png",
+            "text": "Explore NIM"
+        }
+    ]
+}
