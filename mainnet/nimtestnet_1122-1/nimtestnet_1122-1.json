@@ -4,10 +4,6 @@
     "triggers": [
         {
             "image": "/logos/NIM_BANNER_1.png",
-            "text": "AI Gaming Chain"
-        },
-        {
-            "image": "/logos/NIM_BANNER_2.png",
             "text": "Explore NIM"
         }
     ]
