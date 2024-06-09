@@ -1,0 +1,9 @@
+{
+    "active": true,
+    "networkId": "mande_1807-1",
+    "triggers": [
+        {
+            "image": "/logos/MANDE_BANNER.png"
+        }
+    ]
+}
