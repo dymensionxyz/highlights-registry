@@ -3,7 +3,8 @@
     "networkId": "mande_1807-1",
     "triggers": [
         {
-            "image": "/logos/MANDE_BANNER.png"
+            "image": "/logos/MANDE_BANNER.png",
+            "text": "Explore MANDE"
         }
     ]
 }
